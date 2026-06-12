@@ -675,6 +675,9 @@
     .feature-text strong { display: block; font-size: .9rem; margin-bottom: .2rem; }
     .feature-text span { font-size: .78rem; color: var(--col-muted); }
   </style>
+  <!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 </head>
 <body>
 
